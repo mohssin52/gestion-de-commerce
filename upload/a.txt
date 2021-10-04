@@ -1,0 +1,8 @@
+45072316
+pour cree u nouveau projet avec le system de routage
+ng new appAngularwhitRouter --routing
+pour fiare le casting on ajoute '+'
+ pour installer firebase on angular:"npm i firebase angularfire2 --save"
+pour gener une service et le pose dnas le dossier provider "$ ng g s services/contact --spec=false --module=app"
+npm i firebase@7.24.0 angularfire2 --save
+npm i angular2-flash-messages --save(meeasge d'affichage)
